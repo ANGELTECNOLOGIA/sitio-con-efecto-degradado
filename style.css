@@ -37,6 +37,7 @@ article {
   text-align: center;
   margin-left: 0;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 10px;
 }
 article footer {
   text-align: right;
