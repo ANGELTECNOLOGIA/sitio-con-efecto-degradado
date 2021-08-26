@@ -49,7 +49,7 @@ p {
 }
 
 table {
-  align-items: center;
+  align: center;
   border: 1px solid white;
   max-width: 100%;
 }
